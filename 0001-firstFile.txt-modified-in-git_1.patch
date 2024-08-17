@@ -1,0 +1,24 @@
+From 3088a7195acc16f466814b793d0d3c6e63a102a1 Mon Sep 17 00:00:00 2001
+From: Dmitrii Ostapchuk <dmit.ostapchuk@gmail.com>
+Date: Sat, 17 Aug 2024 10:39:50 +0500
+Subject: [PATCH] firstFile.txt modified in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 14d1250..d86c161 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line1
+-Line2
++Line1 modified
++Line2 modified
+ Line3
+ Line4
+ Line5
+-- 
+2.41.0
+
