@@ -4,7 +4,7 @@ Line3 modified in folder2
 Line4 modified in folder2
 Line5 modified
 Line6 modified
-Line7
-Line8
+Line7 modified in folder1
+Line8 modified in folder1
 Line9
-Line10
+Line10 modified in folder1
